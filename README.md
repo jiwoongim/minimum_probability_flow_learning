@@ -1,4 +1,4 @@
-# minimum_probability_flow_learning
+# Minimum_probability_flow_learning
 Python (Theano) implementation of Minimum Probability Flow learning code provided by Daniel Jiwoong Im.
 The code includes minimum probability flow with one-bit flip and factored minimum probability flow.
 It also requires theano package. For more information, see http://arxiv.org/abs/1412.6617
