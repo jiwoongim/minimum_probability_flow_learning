@@ -21,7 +21,8 @@ Packages
 
 ## How to run
 Entry code for one-bit flip and factored minimum probability flow for mnist data are 
+```
     - mnist_1bit_mpf.py
     - mnist_fmpf.py
-
+```
 
