@@ -6,8 +6,8 @@ For more information, see
 ```bibtex
 @article{Im2015mpf,
   title={Understanding Minimum Probability Flow for RBMs Under Various Kinds of Dynamics},
-  author={Daniel Jiwoong Im, Ethan Buchman and Taylor, Graham},
-  journal={International Conference of Learning Representation (ICLR) Workshop},
+  author={Im, Daniel Jiwoong and Buchman, Ethan and Taylor, Graham},
+  journal={International Conference on Learning Representations (ICLR) Workshop Track},
   year={2015}
 }
 ```
