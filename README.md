@@ -12,6 +12,8 @@ For more information, see
 }
 ```
 
+If you use this in your research, we kindly ask that you cite the above workshop paper
+
 ## Dependencies
 Packages
 * [numpy](http://www.numpy.org/)
