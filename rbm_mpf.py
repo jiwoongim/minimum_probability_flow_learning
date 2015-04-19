@@ -124,7 +124,7 @@ class RBM_MPF(object):
         if self.mpf_type=='1bit':
             return self.bitflip_cost(X, size=size)
         elif self.mpf_type=='factored_mpf':
-            return self.factored_mpf_cost(X, YY, size=size)
+            return self.factored_mpf_cost(X, Y, size=size)
 
     '''Cost function for Single bit filp'''
     def bitflip_cost(self, X, size=None):
